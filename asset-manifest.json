@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lingstitute/static/css/main.76ceeaef.css",
+    "main.js": "/lingstitute/static/js/main.97b93ce9.js",
+    "static/js/453.419a5d54.chunk.js": "/lingstitute/static/js/453.419a5d54.chunk.js",
+    "static/media/WhatsApp Image 2024-10-02 at 20.09.46_31d9dcb3.jpg": "/lingstitute/static/media/WhatsApp Image 2024-10-02 at 20.09.46_31d9dcb3.fe4b0032f66de3e95cef.jpg",
+    "index.html": "/lingstitute/index.html",
+    "main.76ceeaef.css.map": "/lingstitute/static/css/main.76ceeaef.css.map",
+    "main.97b93ce9.js.map": "/lingstitute/static/js/main.97b93ce9.js.map",
+    "453.419a5d54.chunk.js.map": "/lingstitute/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ceeaef.css",
+    "static/js/main.97b93ce9.js"
+  ]
+}
